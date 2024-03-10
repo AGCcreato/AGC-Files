@@ -1,5 +1,6 @@
 #EXTM3U × IPTV Playlist
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz" 
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
