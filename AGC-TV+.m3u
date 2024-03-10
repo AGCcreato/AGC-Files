@@ -1,0 +1,909 @@
+#EXTM3U × IPTV Playlist
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz" 
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1034&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74233-la71l5eg-v4/imageContent-74233-la71l5eg-m5.png", News State Bihar Jharkhand
+#EXTGRP:NEWS
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1853/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=166&key
+#EXTINF: -1 tvg-name="News 18 Bihar & Jharkhand" tvg-chno="15" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122040.png", News 18 Bihar & Jharkhand
+#EXTGRP:NEWS
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_247/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=20&key
+#EXTINF: -1 tvg-name="Zee Bihar Jharkhand" tvg-chno="14" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122054.png", Zee Bihar Jharkhand
+#EXTGRP:NEWS
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=689&key
+#EXTINF: -1 tvg-name="AAJ TAK HD" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png", AAJ TAK HD
+#EXTGRP:NEWS
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-aajtak-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=106&key
+#EXTINF: -1 tvg-name="News18 INDIA" tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png", News18 INDIA
+#EXTGRP:NEWS
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-news18india-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=177&key
+#EXTINF: -1 tvg-name="ABP NEWS" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/1280px-ABP_News_logo.svg.png", ABP NEWS
+#EXTGRP:NEWS
+https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-samsungin-abpnews-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=932&key
+#EXTINF: -1 tvg-id="4" tvg-name="TIMES NOW NAVBHARAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Times-now-navbharat.png", TIMES NOW NAVBHARAT HD
+#EXTGRP:NEWS
+https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=259&key
+#EXTINF: -1 tvg-id="6" tvg-name="Zee News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/440px-Zee_news.svg.png", Zee News
+#EXTGRP:NEWS
+https://amg01448-samsungin-zeenews-samsungin-ad-34.amagi.tv/playlist/amg01448-samsungin-zeenews-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=696&key
+#EXTINF: -1 tvg-name="REPUBLIC BHARAT" tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/1280px-Republic_Bharat_logo.svg.png", REPUBLIC BHARAT
+#EXTGRP:NEWS
+https://samsung-republicbharat.amagi.tv/playlist/samsungin-republicbharat-samsungindia/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=179&key
+#EXTINF: -1 tvg-name="NDTV INDIA" tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NDTV_India_Logo.svg/1280px-NDTV_India_Logo.svg.png", NDTV INDIA
+#EXTGRP:NEWS
+https://samsung-ndtvindia-samsungin.amagi.tv/playlist/amg01448-samsungin-ndtvindia-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=278&key
+#EXTINF: -1 tvg-name="GNT" tvg-chno="13" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122039.png", GNT
+#EXTGRP:NEWS
+https://amg01448-samsungin-goodnewstime-samsungin-ad-89.amagi.tv/playlist/amg01448-samsungin-goodnewstime-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=706&key
+#EXTINF: -1 tvg-name="TV9 BHARATVARSH HD" tvg-chno="16" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122046.jpg", TV9 BHARATVARSH HD
+#EXTGRP:NEWS
+https://amg01448-samsungin-tv9bharatvarsh-samsungin-3q1ih.amagi.tv/playlist/amg01448-samsungin-tv9bharatvarsh-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=104&key
+#EXTINF: -1 tvg-id="5" tvg-name="India TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/India_tv_logo-en.png", India TV
+#EXTGRP:NEWS
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_148/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=183&key
+#EXTINF: -1 tvg-name="INDIA NEWS" tvg-chno="7" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122029.png", INDIA NEWS
+#EXTGRP:NEWS
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_150/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=209&key
+#EXTINF: -1 tvg-name="NEWS 24" tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg", NEWS 24
+#EXTGRP:NEWS
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_308/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=36&key
+#EXTINF: -1 tvg-name="NEWS NATION" tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg", NEWS NATION
+#EXTGRP:NEWS
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_309/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1010&key
+#EXTINF: -1 tvg-name="" tvg-logo="https://i.imgur.io/KPLISR0_d.webp?maxwidth=640&shape=thumb&fidelity=medium", Bharat 24
+#EXTGRP:NEWS
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=691&key
+#EXTINF: -1 tvg-name="DD NEWS" tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png", DD NEWS HD
+#EXTGRP:NEWS
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=514&key
+#EXTINF: -1 tvg-name="Zee Hindustan" tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/1280px-Zee_Hindustan_Logo.png", Zee Hindustan
+#EXTGRP:NEWS
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/manifest.mpd
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=239&key
+#EXTINF: -1 tvg-name="POGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/POGO-logo.png/500px-POGO-logo.png", POGO
+#EXTGRP:Kids & Family [Cartoons]
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=238&key
+#EXTINF: -1 tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
+#EXTGRP:Kids & Family [Cartoons]
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=119&key
+#EXTINF: -1 tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
+#EXTGRP:Kids & Family [Cartoons]
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=45&key
+#EXTINF: -1 tvg-name="SONY YAY!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png", SONY YAY!
+#EXTGRP:Kids & Family [Cartoons]
+https://dai.google.com/ssai/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=681&key
+#EXTINF: -1 tvg-name="CARTOON NETWORK HD+" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png", CARTOON NETWORK HD+
+#EXTGRP:Kids & Family [Cartoons]
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd
+
+#EXTINF: -1 tvg-name="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png", Hungama
+#EXTGRP:Kids & Family [Cartoons]
+http://sonyiptv.net:8080/10001/10001/246766
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=587&key
+#EXTINF: -1 tvg-name="Super Hungama" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png", Super Hungama
+#EXTGRP:Kids & Family [Cartoons]
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd
+
+#EXTINF: -1 tvg-name="DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/440px-2019_Disney_Channel_logo.svg.png", DISNEY HD
+#EXTGRP:Kids & Family [Cartoons]
+http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/96278
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=144&key
+#EXTINF: -1 tvg-name="DISNEY Junior" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png", DISNEY Junior
+#EXTGRP:Kids & Family [Cartoons]
+http://sonyiptv.net:8080/10001/10001/246769
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=114&key
+#EXTINF: -1 tvg-name="DISNEY" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png", DISNEY
+#EXTGRP:Kids & Family [Cartoons]
+http://sonyiptv.net:8080/10001/10001/9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=433&key
+#EXTINF: -1 tvg-name="NICK HD+" tvg-logo="https://www.nickindia.com/wp-content/themes/nick/assets/images/hd-logo.png", NICK HD+
+#EXTGRP:Kids & Family [Cartoons]
+http://sonyiptv.net:8080/10001/10001/246770
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=138&key
+#EXTINF: -1 tvg-name="Nick" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png", Nick
+#EXTGRP:Kids & Family [Cartoons]
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=118&key
+#EXTINF: -1 tvg-name="Nick Jr" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png", Nick Jr
+#EXTGRP:Kids & Family [Cartoons]
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=127&key
+#EXTINF: -1 tvg-name="" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487736/964122112.png", SONIC Nickelodeon
+#EXTGRP:Kids & Family [Cartoons]
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd
+
+#EXTINF: -1 tvg-name="Marvel HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marvel_HQ_logo.svg/1600px-Marvel_HQ_logo.svg.png", Marvel HQ
+#EXTGRP:Kids & Family [Cartoons]
+http://170.187.254.146:25461/live/@AGCcreato/aapkasarthidev/439.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=994&key
+#EXTINF: -1 tvg-name="Tata Play Toons+" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71550-l4zi50uw-v2/imageContent-71550-l4zi50uw-m5.png", Tata Play Toons+
+#EXTGRP:Kids & Family [Cartoons]
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="" group-title="Kids & Family [Cartoons]",TOM & JERRY
+http://sonyiptv.net:8080/10001/10001/124006
+
+#EXTINF:-1 tvg-id="" tvg-name="PINK PANTHER" tvg-logo="" group-title="Kids & Family [Cartoons]",PINK PANTHER
+http://sonyiptv.net:8080/10001/10001/139477
+
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN" tvg-logo="" group-title="Kids & Family [Cartoons]",MR BEAN
+http://sonyiptv.net:8080/10001/10001/194308
+
+#EXTINF: -1 tvg-name="The Q Kahaniyan" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240214T030805SQUARE.png_20240214030806.png", The Q Kahaniyan
+#EXTGRP:Kids & Family [Cartoons]
+https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-640586/main.m3u8
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=341&key
+#EXTINF: -1 tvg-id="219" tvg-name="Discovery HD WORLD" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png", Discovery HD WORLD
+#EXTGRP:DISCOVERY +
+https://amg01448-samsungin-discoveryhdin-samsungin-yte67.amagi.tv/playlist/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=113&key
+#EXTINF: -1 tvg-id="Discovery.Science.in" tvg-name="Discovery Science" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png", ₹ Discovery Science
+#EXTGRP:DISCOVERY +
+https://amg01448-samsungin-discoverysciin-samsungin-nk6of.amagi.tv/playlist/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=287&key
+#EXTINF: -1 tvg-id="Animal.Planet.in" tvg-name="Animal Planet HD WOLRD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png",Animal Planet HD WORLD
+#EXTGRP:DISCOVERY +
+https://amg01448-samsungin-animalplanthdin-samsungin-yexsf.amagi.tv/playlist/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=460&key
+#EXTINF: -1 tvg-name="SONY BBC EARTH HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png", SONY BBC EARTH HD
+#EXTGRP:DISCOVERY +
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=480&key
+#EXTINF: -1 tvg-id="TLC.HD.in" tvg-name="₹ TLC HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png", ₹ TLC HD
+#EXTGRP:DISCOVERY +
+https://amg01448-samsungin-tlchdin-samsungin-jka1w.amagi.tv/playlist/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=605&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png", National Geographic HD
+#EXTGRP:DISCOVERY +
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=616&key
+#EXTINF: -1 tvg-id="TRAI.Tariff.Order.in" tvg-name="₹ TRVL Channel" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png", ₹ History TV18 HD
+#EXTGRP:DISCOVERY +
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=228&key
+#EXTINF: -1 tvg-id="Discovery.Turbo.in" tvg-name="₹ Discovery Turbo" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/8fe22165-ee25-4c33-85d8-fce64db3dd00.png", ₹ Discovery Turbo
+#EXTGRP:DISCOVERY +
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_145/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=633&key
+#EXTINF: -1 tvg-id="Investigation.Discovery.in" tvg-name="₹ Investigation Discovery" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/049850cc-3b63-4b65-b2b7-5657f0bc5865.png", ₹ Investigation Discovery
+#EXTGRP:DISCOVERY +
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd
+
+#EXTINF: -1 tvg-id="10089" tvg-name="₹ DMAX" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/fb48c0ed-2188-4b01-bd17-25b45f6dd271.png", ₹ DMAX
+#EXTGRP:DISCOVERY +
+http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/102418
+
+#EXTINF: -1 tvg-id="TRAI.Tariff.Order.in" tvg-name="₹ HGTV" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/df769200-cd93-420a-834a-f0426323787e.png", ₹ HGTV
+#EXTGRP:DISCOVERY +
+http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/157963
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=117&key
+#EXTINF: -1 tvg-id="Food.Food.in" tvg-name="₹ Food Network" tvg-logo="https://food.fnr.sndimg.com/content/dam/images/food/editorial/blog/legacy/fn-dish/2013/1/fnd_FN-New-Logo_s4x3_lead.jpg.rend.hgtvcom.406.305.suffix/1505046804671.jpeg", ₹ Food FOOD
+#EXTGRP:DISCOVERY +
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_154/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=71&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG", Tata Play English in Hindi
+#EXTGRP:DISCOVERY +
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_396/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=167&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-703-j5l1wgco-v2/imageContent-703-j5l1wgco-m2.png", Tata Play Vedic Maths
+#EXTGRP:DISCOVERY +
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_392/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=929&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64069-kra2o75k-v2/imageContent-64069-kra2o75k-m2.png", Tata Play JEE Prep
+#EXTGRP:DISCOVERY +
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1324/output/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000016J_20230111T005122SQUARE.png_20230111005122.png", HD Travel
+#EXTGRP:DISCOVERY +
+https://amg02132-sofast-hdtravel-samsungin-qe6ms.amagi.tv/playlist/amg02132-sofast-hdtravel-samsungin/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100025YE_20220427T054559SQUARE.png_20220427054600.png", GoUSA TV
+#EXTGRP:DISCOVERY +
+https://3b265effb709412a8b5988c98756fda0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_GoUSATV/playlist.m3u8
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=48&key
+#EXTINF: -1 tvg-id="sonysab.in" tvg-name="₹ SONY SAB HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png", ₹ SONY SAB HD
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=40&key
+#EXTINF: -1 tvg-id="And.tv.HD.in" tvg-name="₹ &TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/1ZpahMbB.png", ₹ &TV HD
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=15&key
+#EXTINF: -1 tvg-id="sonyhd.in" tvg-name="₹ SONY HD" tvg-logo="https://www.setindia.com/assests/images/logo.png", ₹ SONY HD
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=8&key
+#EXTINF: -1 tvg-name="₹ STAR PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png", ₹ STAR PLUS HD
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=63&key
+#EXTINF: -1 tvg-id="Zee.TV.HD.in" tvg-name="₹ ZEE TV" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png", Zee TV HD
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=52&key
+#EXTINF: -1 tvg-name="₹ COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/360px-Colors_TV_logo.svg.png", ₹ COLORS HD
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=244&key
+#EXTINF: -1 tvg-name="₹ STAR BHARAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Star_Bharat_2022.png/340px-Star_Bharat_2022.png", ₹ STAR BHARAT HD
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=559&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png", SONY SAB
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=578&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12129-j9p7kluo-v2/imageContent-12129-j9p7kluo-m3.png", &TV
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=554&key
+#EXTINF: -1 tvg-id="sonypal.in" tvg-name="₹ SONY PAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfJEoiH_JsxyZLk_eUTHiDX21HNWZ5HcbV8iS9PHLDp-3EvpiBa8y3uhxsxcKO2SzJRCYuUEBVoqcESe9Opbg5-xlwt2Tkg7LzQfkxZhrCDLtTIoerKg4y12hBJgTzMGTjkISRW7vhpl_0WF5ZhP85v2QeJyaYWKMGWZ5Ktcu6YkS7sZkXDvTx3cLA/w320-h275-rw/Sony-pal-dd-free-dish.jpg", ₹ SONY PAL
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://dai.google.com/ssai/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=551&key
+#EXTINF: -1 tvg-name="₹ STAR UTSAV" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487733/964122083.png", ₹ STAR UTSAV
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=523&key
+#EXTINF: -1 tvg-id="Zee.Anmol.in" tvg-name="₹ ZEE ANMOL" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/QjKdER9Z.png", ₹ ZEE ANMOL
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=438&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RIS_Thumbnail-v3/RIS_Thumbnail.png", Colors Rishtey
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=888&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60986-klq1vs5s-v2/imageContent-60986-klq1vs5s-m5.png", Ishara
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd
+
+#EXTINF: -1 tvg-name="₹ DANGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png", ₹ DANGAL
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://amg01448-samsungin-enterr10dangal-samsungin-ad-4y.amagi.tv/playlist/amg01448-samsungin-enterr10dangal-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=818&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png", Shemaroo TV
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_1114/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=297&key
+#EXTINF: -1 tvg-id="Big.Magic.in" tvg-name="₹ BIG MAGIC" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/VNQSlsby.png", ₹ BIG MAGIC
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=54&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-150-j5frd0jc-v3/imageContent-150-j5frd0jc-m5.png", The Q
+#EXTGRP:ENTERTAINMENT [सिरियल]
+https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=80&key
+#EXTINF: -1 tvg-name="SONY MAX HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png", SONY MAX HD
+#EXTGRP:MOVIES
+https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF: -1 tvg-name="SONY MAX 2 HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png", SONY MAX 2 HD
+#EXTGRP:MOVIES
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
+#EXTINF: -1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png", Sony Pix HD
+#EXTGRP:MOVIES
+https://dai.google.com/ssai/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=245&key
+#EXTINF: -1 tvg-name="STAR GOLD HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png", STAR GOLD HD
+#EXTGRP:MOVIES
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.denveriptv.repl.co/DenverSG2
+#EXTINF: -1 tvg-name="STAR GOLD 2 HD" tvg-logo="https://i.ibb.co/kJCTGhg/CC-20221111-203447.png", STAR GOLD HD 2
+#EXTGRP:MOVIES
+https://delta14tatasky.akamaized.net/out/i/5137035.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=503&key
+#EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png", Zee Cinema HD
+#EXTGRP:MOVIES
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=100&key
+#EXTINF: -1 tvg-name="Zee Action" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png", Zee Action
+#EXTGRP:MOVIES
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_205/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=267&key
+#EXTINF: -1 tvg-name="&Pictures" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png", &Pictures HD
+#EXTGRP:MOVIES
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=56&key
+#EXTINF: -1 tvg-name="SONY WAH" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png", SONY WAH
+#EXTGRP:MOVIES
+https://dai.google.com/ssai/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+
+#EXTINF: -1 tvg-name="STAR UTHSAV MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487732/964122036.jpg", STAR UTSAV MOVIES
+#EXTGRP:MOVIES
+http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/96178
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=64&key
+#EXTINF: -1 tvg-name="Zee Anmol Cinema" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png", Zee Anmol Cinema
+#EXTGRP:MOVIES
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=175&key
+#EXTINF: -1 tvg-name="Zee Bollywood" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png", Zee Bollywood
+#EXTGRP:MOVIES
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=727&key
+#EXTINF: -1 tvg-name="Zee Classic" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png", Zee Classic
+#EXTGRP:MOVIES
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=7&key
+#EXTINF: -1 tvg-name="B4U MOVIES" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png", B4U MOVIES
+#EXTGRP:MOVIES
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd
+
+#EXTINF: -1 tvg-name="&xplorHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487732/964122025.png", &xplorHD
+#EXTGRP:MOVIES
+http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/96344
+
+#EXTINF: -1 tvg-name="&flix HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487732/964122043.png", &flix HD
+#EXTGRP:MOVIES
+http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/96274
+
+#EXTINF: -1 tvg-name="Zee ETC BOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/ZeeETCBollywoodLogo.png/340px-ZeeETCBollywoodLogo.png", Zee ETC BOLLYWOOD
+#EXTGRP:MOVIES
+http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/96345
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
+#EXTINF: -1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 Hindi HD
+#EXTGRP:SPORTS
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58220
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=78&key
+#EXTINF: -1 tvg-name="Star Sports 1 HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 HD
+#EXTGRP:SPORTS
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=235&key
+#EXTINF: -1 tvg-name="Star Sports 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png", Star Sports 2 HD
+#EXTGRP:SPORTS
+http://txm1.flysat.live:2089/152099290352684/152082825718580/203430
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=246&key
+#EXTINF: -1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG", Star Sports Select 1 HD
+#EXTGRP:SPORTS
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=463&key
+#EXTINF: -1 tvg-name="Star Sports Select 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png", Star Sports Select 2 HD
+#EXTGRP:SPORTS
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=81&key
+#EXTINF: -1 tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png", SONY SPORTS TEN 1 HD
+#EXTGRP:SPORTS
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=462&key
+#EXTINF: -1 tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png", SONY SPORTS TEN 2 HD
+#EXTGRP:SPORTS
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=464&key
+#EXTINF: -1 tvg-name="SONY SPORTS TEN 3 HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png", SONY SPORTS TEN 3 HD
+#EXTGRP:SPORTS
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=35&key
+#EXTINF: -1 tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png", SONY SPORTS TEN 5 HD
+#EXTGRP:SPORTS
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
+
+#EXTINF: -1 tvg-name="SONY SPORTS TEN 3 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png", SONY SPORTS TEN 3 HD
+#EXTGRP:SPORTS
+http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/93734
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1033&key
+#EXTINF: -1 tvg-name="Sports 18 - 1 HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png", Sports 18 - 1 HD
+#EXTGRP:SPORTS
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=223&key
+#EXTINF: -1 tvg-name="DD Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png", DD Sports
+#EXTGRP:SPORTS
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd
+
+#EXTINF: -1 tvg-name="STAR SPORTS FIRST" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487742/964276150.jpg" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/e0/Star_Sports_First.jpg/revision/latest/scale-to-width-down/210?cb=20190725055820", STAR SPORTS FIRST
+#EXTGRP:SPORTS
+http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/93728
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=812&key
+#EXTINF: -1 tvg-name="Eurosport HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png", Eurosport HD
+#EXTGRP:SPORTS
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=815&key
+#EXTINF: -1 tvg-name="1sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52856-k984c4vc-v1/imageContent-52856-k984c4vc-m1.png", 1sports
+#EXTGRP:SPORTS
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1110/output/manifest.mpd
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=775&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11408-j9jqmlvs-v6/imageContent-11408-j9jqmlvs-m4.png" group-title="SPRITUAL [आध्यात्मिक]",DIVYA
+https://amg01448-samsungin-divyatv-samsungin-ad-2b.amagi.tv/playlist/amg01448-samsungin-divyatv-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=842&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png" group-title="SPRITUAL [आध्यात्मिक]",Somnath Temple
+https://delta45tatasky.akamaized.net/out/i/722.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=840&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="SPRITUAL [आध्यात्मिक]",Shirdi Sai Baba
+https://delta45tatasky.akamaized.net/out/i/554.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=872&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58613-kj283ly8-v2/imageContent-58613-kj283ly8-m2.png" group-title="SPRITUAL [आध्यात्मिक]",Tata Play Astro Duniya
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1148/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=735&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44321-jz2zb8pk-v3/imageContent-44321-jz2zb8pk-m3.png" group-title="SPRITUAL [आध्यात्मिक]",Tata Play Ibaadat
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1632/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=38&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-105-j5fl5t1k-v1/imageContent-105-j5fl5t1k-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Aastha
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_341/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=43&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-123-j5fnf1fc-v1/imageContent-123-j5fnf1fc-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Sanskar
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_342/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=446&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11725-j9kw030w-v4/imageContent-11725-j9kw030w-m4.png" group-title="SPRITUAL [आध्यात्मिक]",Paras Gold One
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_669/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=397&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11590-j9jyx4so-v1/imageContent-11590-j9jyx4so-m1.png" group-title="SPRITUAL [आध्यात्मिक]",MH One Shraddha
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_627/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=447&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11746-j9kwfmfs-v2/imageContent-11746-j9kwfmfs-m2.png" group-title="SPRITUAL [आध्यात्मिक]",Sadhna TV
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_696/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=385&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11547-j9ju62m8-v3/imageContent-11547-j9ju62m8-m3.png" group-title="SPRITUAL [आध्यात्मिक]",Sharnam TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_605/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=420&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11664-j9kcouh4-v1/imageContent-11664-j9kcouh4-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Peace of Mind
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_670/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=373&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11507-j9jto5k0-v1/imageContent-11507-j9jto5k0-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Jinvani Channel
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_589/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=288&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ARIH_Thumbnail-v2/ARIH_Thumbnail.png" group-title="SPRITUAL [आध्यात्मिक]",Dharma Sandesh
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_461/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=594&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12196-j9q3ez54-v1/imageContent-12196-j9q3ez54-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Ishwar TV
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_579/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=456&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11767-j9kwretk-v1/imageContent-11767-j9kwretk-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Satsang TV
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_713/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=458&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11775-j9kwuk8w-v1/imageContent-11775-j9kwuk8w-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Shubh TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_715/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=283&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11212-j9icd8jc-v1/imageContent-11212-j9icd8jc-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Aastha Bhajan
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_436/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=500&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11903-j9l4wxy8-v1/imageContent-11903-j9l4wxy8-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Vedic
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_814/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=935&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65100-kspm2814-v1/imageContent-65100-kspm2814-m2.png" group-title="SPRITUAL [आध्यात्मिक]",Awakening
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=911&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62610-koxujv2g-v2/imageContent-62610-koxujv2g-m3.png" group-title="SPRITUAL [आध्यात्मिक]",Santwani
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=969&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69024-kzo68h3c-v1/imageContent-69024-kzo68h3c-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Aadinath TV
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1799/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=937&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65108-ksr7d028-v1/imageContent-65108-ksr7d028-m2.png" group-title="SPRITUAL [आध्यात्मिक]",Anaadi TV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=837&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56259-kf4te7xs-v1/imageContent-56259-kf4te7xs-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Hare Krsna
+https://dmewjyfrjf65h.cloudfront.net/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=847&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56402-kfesiz4g-v1/imageContent-56402-kfesiz4g-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Krishna Vani
+https://cable7tatasky.akamaized.net/KRISHNAVAANI/cdb4d5121f9b2fa38a5e58ce4284414e.sdp/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=887&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60927-kljn2znc-v1/imageContent-60927-kljn2znc-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Garv Gurbani
+https://delta45tatasky.akamaized.net/out/i/1155.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=883&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60933-kljn4c9c-v1/imageContent-60933-kljn4c9c-m1.png" group-title="SPRITUAL [आध्यात्मिक]",Swar Shree
+https://delta45tatasky.akamaized.net/out/i/1219.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=908&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62599-koxtswe0-v1/imageContent-62599-koxtswe0-m2.png" group-title="SPRITUAL [आध्यात्मिक]",Nimbark TV
+https://legitpro.co.in/nimbarktv/nimbarktvbox/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=841&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAK_Thumbnail-v3/MAHAK_Thumbnail.png" group-title="SPRITUAL [आध्यात्मिक]",Mahakaleshwar Temple, Ujjain
+https://delta45tatasky.akamaized.net/out/i/1299.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=944&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65966-ku6es6wo-v4/imageContent-65966-ku6es6wo-m4.png" group-title="SPRITUAL [आध्यात्मिक]",Live Iskcon Vrindavan
+https://delta45tatasky.akamaized.net/out/i/805.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=947&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65977-ku6g2hko-v3/imageContent-65977-ku6g2hko-m3.png" group-title="SPRITUAL [आध्यात्मिक]",Live Patna Sahib Patna
+https://delta45tatasky.akamaized.net/out/i/496.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=949&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65985-ku6gly6w-v3/imageContent-65985-ku6gly6w-m3.png" group-title="SPRITUAL [आध्यात्मिक]",Live Sri Naga Sai Mandir Coimbatore
+https://delta45tatasky.akamaized.net/out/i/1347.mpd
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=139&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png" group-title="MUSIC",9XM
+https://amg01281-9xmediapvtltd-9xmusic-samsungin-j8yoo.amagi.tv/playlist/amg01281-9xmediapvtltd-9xmusic-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=39&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png" group-title="MUSIC",9X Jalwa
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=17&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png" group-title="MUSIC",Mastiii
+https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=406&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="MUSIC",MTV HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_638/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=103&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png" group-title="MUSIC",MTV
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=96&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png" group-title="MUSIC",Zoom
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_164/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=224&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-946-j5mip6a0-v1/imageContent-946-j5mip6a0-m1.png" group-title="MUSIC",E24
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_278/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=405&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="MUSIC",MTV Beats HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_637/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=236&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1018-j5nhzme0-v1/imageContent-1018-j5nhzme0-m1.png" group-title="MUSIC",MTV Beats
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=9&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="MUSIC",B4U Music
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_277/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=517&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="MUSIC",Zing
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_843/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=733&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44228-jyzbtse0-v1/imageContent-44228-jyzbtse0-m1.png" group-title="MUSIC",Showbox
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_961/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=539&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png" group-title="MUSIC",VH1 HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_817/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=399&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11586-j9jyt26w-v1/imageContent-11586-j9jyt26w-m1.png" group-title="MUSIC",MH One
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_625/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=912&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62613-koxw351c-v1/imageContent-62613-koxw351c-m1.png" group-title="MUSIC",Haryana Beats
+https://delta45tatasky.akamaized.net/out/i/1201.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1019&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73019-l8gzpnjs-v1/imageContent-73019-l8gzpnjs-m1.png" group-title="MUSIC",7x Music
+https://delta45tatasky.akamaized.net/out/i/1331.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg" group-title="Latest Movies",Soul (2020)
+http://195.128.248.216:8080/movie/Tony000/dUVI1976*/32096.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="JAWAN (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg" group-title="Latest Movies",Testing (2024)
+http://195.128.248.216:8080/movie/Tony000/dUVI1976*/32096.mp4
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png", INDIA TODAY
+#EXTGRP:ENGLISH
+https://amg01448-samsungin-indiatoday-samsungin-ad-v1.amagi.tv/playlist/amg01448-samsungin-indiatoday-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=189&key
+#EXTINF: -1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000058T_20240131T032537SQUARE.png_20240131032538.png", WION
+#EXTGRP:ENGLISH
+https://amg01448-samsungin-zeewion-samsungin-ad-k3.amagi.tv/playlist/amg01448-samsungin-zeewion-samsungin/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1&key
+#EXTINF: -1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100022O4_20240131T032219SQUARE.png_20240131032219.png", Bloomberg Originals
+#EXTGRP:ENGLISH
+https://1c8aebfd2dc14a0bbffa7363c35bcbc0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_QuickTake-1/playlist.m3u8
