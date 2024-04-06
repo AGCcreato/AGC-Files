@@ -33,7 +33,7 @@ http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id
 #EXTGRP:NEWS
 http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=2735&e=.m3u8
 
-##KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/689
 #EXTINF: -1 tvg-name="AAJ TAK HD" tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png/revision/latest?cb=20210310202037", AAJ TAK HD
 #EXTGRP:NEWS
