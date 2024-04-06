@@ -1,5 +1,5 @@
 #EXTM3U × IPTV Playlist
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz" 
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 
@@ -33,11 +33,11 @@ http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id
 #EXTGRP:NEWS
 http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=2735&e=.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xH6iEhncN42GIM2G4vyZ8g","kid":"/Cuk+v9dVfubiFi/3WslNw"}],"type":"temporary"}
+##KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/689
 #EXTINF: -1 tvg-name="AAJ TAK HD" tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png/revision/latest?cb=20210310202037", AAJ TAK HD
 #EXTGRP:NEWS
-https://bpprod3live.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd
+https://tataplay.code-crafters.app/manifest/689.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=106&key
@@ -466,9 +466,11 @@ https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTGRP:MOVIES
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cpbcH4hChJwpTjZ/wq4gOA","kid":"iUE0eboHWQiTMg+vBaa3/Q"}],"type":"temporary"}
 #EXTINF: -1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png", Sony Pix HD
 #EXTGRP:MOVIES
-https://dai.google.com/ssai/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=245&key
