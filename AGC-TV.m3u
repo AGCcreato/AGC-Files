@@ -3,35 +3,17 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=166&key
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/166
 #EXTINF: -1 tvg-name="News 18 Bihar & Jharkhand" tvg-chno="15" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122040.png", News 18 Bihar & Jharkhand
 #EXTGRP:NEWS
-http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=693&e=.m3u8
+https://tataplay.code-crafters.app/manifest/166.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=20&key
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/20
 #EXTINF: -1 tvg-name="Zee Bihar Jharkhand" tvg-chno="14" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122054.png", Zee Bihar Jharkhand
 #EXTGRP:NEWS
-http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=661&e=.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1034&key
-#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74233-la71l5eg-v4/imageContent-74233-la71l5eg-m5.png", News State Bihar Jharkhand
-#EXTGRP:NEWS
-http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=2764&e=.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=166&key
-#EXTINF: -1 tvg-name="Sahara Samay Bihar" tvg-chno="15" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Samay_Bihar%2FJK.jpeg/revision/latest?cb=20191229183139", Sahara Samay Bihar
-#EXTGRP:NEWS
-http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=509&e=.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=166&key
-#EXTINF: -1 tvg-name="Samachar Plus Jharkhand Bihar" tvg-chno="15" tvg-logo="https://play-lh.googleusercontent.com/UkR-HN9PIUBix1H2AWT6FP6ONxbbulJkpDCb_W39LnyY8MTJpTNDZoj16KQz7ZV1RUeD=w480-h960-rw", Samachar Plus Jharkhand Bihar
-#EXTGRP:NEWS
-http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=2735&e=.m3u8
+https://tataplay.code-crafters.app/manifest/20.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/689
@@ -122,6 +104,24 @@ https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/manife
 #EXTINF: -1 tvg-name="DD NEWS" tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png", DD NEWS HD
 #EXTGRP:NEWS
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1034&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74233-la71l5eg-v4/imageContent-74233-la71l5eg-m5.png", News State Bihar Jharkhand
+#EXTGRP:NEWS
+http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=2764&e=.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=166&key
+#EXTINF: -1 tvg-name="Sahara Samay Bihar" tvg-chno="15" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Samay_Bihar%2FJK.jpeg/revision/latest?cb=20191229183139", Sahara Samay Bihar
+#EXTGRP:NEWS
+http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=509&e=.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=166&key
+#EXTINF: -1 tvg-name="Samachar Plus Jharkhand Bihar" tvg-chno="15" tvg-logo="https://play-lh.googleusercontent.com/UkR-HN9PIUBix1H2AWT6FP6ONxbbulJkpDCb_W39LnyY8MTJpTNDZoj16KQz7ZV1RUeD=w480-h960-rw", Samachar Plus Jharkhand Bihar
+#EXTGRP:NEWS
+http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=2735&e=.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=514&key
