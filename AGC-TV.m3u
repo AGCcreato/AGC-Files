@@ -3,8 +3,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIP#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=166&key
 #EXTINF: -1 tvg-name="News 18 Bihar & Jharkhand" tvg-chno="15" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122040.png", News 18 Bihar & Jharkhand
 #EXTGRP:NEWS
@@ -14,13 +13,13 @@ https://rftv.wtf/tp/tplay.mpd?contentID=166
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=20&key
 #EXTINF: -1 tvg-name="Zee Bihar Jharkhand" tvg-chno="14" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122054.png", Zee Bihar Jharkhand
 #EXTGRP:NEWS
-https://rftv.wtf/tp/tplay.mpd?contentID=20
+http://sansat.net:25461/02024659763157/9012405740/96262
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=689&key
 #EXTINF: -1 tvg-name="AAJ TAK HD" tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png/revision/latest?cb=20210310202037", AAJ TAK HD
 #EXTGRP:NEWS
-https://rftv.wtf/tp/tplay.mpd?contentID=689
+http://sansat.net:25461/02024659763157/9012405740/96192
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=106&key
@@ -116,7 +115,7 @@ http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=166&key
 #EXTINF: -1 tvg-name="Sahara Samay Bihar" tvg-chno="15" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Samay_Bihar%2FJK.jpeg/revision/latest?cb=20191229183139", Sahara Samay Bihar
 #EXTGRP:NEWS
-http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=509&e=.m3u8
+http://sansat.net:25461/02024659763157/9012405740/96242
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=166&key
@@ -190,7 +189,7 @@ http://sonyiptv.net:8080/10001/10001/246769
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/114
 #EXTINF: -1 tvg-name="DISNEY" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png", DISNEY
 #EXTGRP:Kids & Family [Cartoons]
-http://103.131.214.129:9985/stream/channelid/952379108.ts?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
+https://tataplay.code-crafters.app/manifest/114.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=433&key
@@ -356,7 +355,7 @@ https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/40
 #EXTINF: -1 tvg-id="And.tv.HD.in" tvg-name="₹ &TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/1ZpahMbB.png", ₹ &TV HD
 #EXTGRP:ENTERTAINMENT [सिरियल]
-https://tataplay.code-crafters.app/manifest/40.mpd
+http://sansat.net:25461/02024659763157/9012405740/96198
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=15&key
@@ -565,6 +564,9 @@ http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58220
 #EXTINF: -1 tvg-name="Star Sports 1 HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 HD
 #EXTGRP:SPORTS
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Hindi (ads free)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1110424/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=235&key
