@@ -13,13 +13,13 @@ https://rftv.wtf/tp/tplay.mpd?contentID=166
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=20&key
 #EXTINF: -1 tvg-name="Zee Bihar Jharkhand" tvg-chno="14" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122054.png", Zee Bihar Jharkhand
 #EXTGRP:NEWS
-http://sansat.net:25461/02024659763157/9012405740/96262
+http://sansat.net:88/02059213497529/8604763320/96262
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=689&key
 #EXTINF: -1 tvg-name="AAJ TAK HD" tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png/revision/latest?cb=20210310202037", AAJ TAK HD
 #EXTGRP:NEWS
-http://sansat.net:25461/02024659763157/9012405740/96192
+http://sansat.net:88/02059213497529/8604763320/96192
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=106&key
@@ -163,11 +163,11 @@ https://dai.google.com/ssai/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=681&key
 #EXTINF: -1 tvg-name="CARTOON NETWORK HD+" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png", CARTOON NETWORK HD+
 #EXTGRP:Kids & Family [Cartoons]
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd
+https://allinonerebornlive.000webhostapp.com/allinone.php?id=11450
 
 #EXTINF: -1 tvg-name="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png", Hungama
 #EXTGRP:Kids & Family [Cartoons]
-http://119.152.21.12:8000/play/a01h/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:43:91:19&stream=1097664&extension=ts&play_token=Hi7wDnBFLT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=587&key
@@ -189,19 +189,19 @@ http://sonyiptv.net:8080/10001/10001/246769
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/114
 #EXTINF: -1 tvg-name="DISNEY" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png", DISNEY
 #EXTGRP:Kids & Family [Cartoons]
-https://tataplay.code-crafters.app/manifest/114.mpd
+https://allinonerebornlive.000webhostapp.com/allinone.php?id=52919
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=433&key
 #EXTINF: -1 tvg-name="NICK HD+" tvg-logo="https://www.nickindia.com/wp-content/themes/nick/assets/images/hd-logo.png", NICK HD+
 #EXTGRP:Kids & Family [Cartoons]
-http://sonyiptv.net:8080/10001/10001/246770
+http://103.131.214.129:9985/stream/channelid/114851840.ts?ticket=0882A6C55D9BFDF3FD8F082A47C7DDAAE7EF4EF8&profile=pass
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/138
 #EXTINF: -1 tvg-name="Nick" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png", Nick
 #EXTGRP:Kids & Family [Cartoons]
-https://tataplay.code-crafters.app/manifest/138.mpd
+https://allinonerebornlive.000webhostapp.com/allinone.php?id=39933
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=118&key
@@ -355,7 +355,7 @@ https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/40
 #EXTINF: -1 tvg-id="And.tv.HD.in" tvg-name="₹ &TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/1ZpahMbB.png", ₹ &TV HD
 #EXTGRP:ENTERTAINMENT [सिरियल]
-http://sansat.net:25461/02024659763157/9012405740/96198
+http://sansat.net:88/02059213497529/8604763320/96198
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=15&key
@@ -470,7 +470,7 @@ https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cpbcH4hChJwpTjZ/wq4gOA","kid":"iUE0eboHWQiTMg+vBaa3/Q"}],"type":"temporary"}
 #EXTINF: -1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png", Sony Pix HD
 #EXTGRP:MOVIES
-https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd
+https://allinonerebornlive.000webhostapp.com/allinone.php?id=56783
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=245&key
