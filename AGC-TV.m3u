@@ -73,13 +73,13 @@ https://amg01448-samsungin-tv9bharatvarsh-samsungin-3q1ih.amagi.tv/playlist/amg0
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=104&key
 #EXTINF: -1 tvg-id="5" tvg-name="India TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/India_tv_logo-en.png", India TV
 #EXTGRP:NEWS
-https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_148/output/manifest.mpd
+http://sansat.net:25461/live/02022663111092/3499495741/96295.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=183&key
 #EXTINF: -1 tvg-name="INDIA NEWS" tvg-chno="7" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122029.png", INDIA NEWS
 #EXTGRP:NEWS
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_150/output/manifest.mpd
+http://sansat.net:25461/live/02022663111092/3499495741/96294.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=209&key
