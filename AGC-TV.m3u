@@ -13,7 +13,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=166
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=20&key
 #EXTINF: -1 tvg-name="Zee Bihar Jharkhand" tvg-chno="14" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122054.png", Zee Bihar Jharkhand
 #EXTGRP:NEWS
-http://sansat.net:25461/live/02022663111092/3499495741/96262
+http://sansat.net:25461/live/02022663111092/3499495741/96262.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=689&key
