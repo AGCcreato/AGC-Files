@@ -7,13 +7,16 @@
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=166&key
 #EXTINF: -1 tvg-name="News 18 Bihar & Jharkhand" tvg-chno="15" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122040.png", News 18 Bihar & Jharkhand
 #EXTGRP:NEWS
-https://rftv.wtf/tp/tplay.mpd?contentID=166
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Bihar_Jharkhand_voot_MOB/Fallback/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=20&key
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5fKq+4Az2BufeG5sAWWvCg","kid":"2QzbcKX1VX2bP8crFOIDFA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1718509732~acl=%2f*~data=hdntl~hmac=19041526a0ce959f5dcd2a69ea70c226fafbae4abafc63addb73b45ada6b135b"}
 #EXTINF: -1 tvg-name="Zee Bihar Jharkhand" tvg-chno="14" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487729/964122054.png", Zee Bihar Jharkhand
 #EXTGRP:NEWS
-http://sansat.net:25461/live/02022663111092/3499495741/96262.ts
+https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/manifest.mpd|cookie:hdntl=exp=1718509732~acl=%2f*~data=hdntl~hmac=19041526a0ce959f5dcd2a69ea70c226fafbae4abafc63addb73b45ada6b135b
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=689&key
