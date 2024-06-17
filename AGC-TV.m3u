@@ -24,7 +24,7 @@ https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/manifest.mpd|c
 #EXTHTTP:{"cookie":"hdntl=exp=1718509732~acl=%2f*~data=hdntl~hmac=19041526a0ce959f5dcd2a69ea70c226fafbae4abafc63addb73b45ada6b135b"}
 #EXTINF: -1 tvg-name="AAJ TAK HD" tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png/revision/latest?cb=20210310202037", AAJ TAK HD
 #EXTGRP:NEWS
-https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd|cookie:hdntl=exp=1718509732~acl=%2f*~data=hdntl~hmac=19041526a0ce959f5dcd2a69ea70c226fafbae4abafc63addb73b45ada6b135b
+https://amg01448-samsungin-aajtak-samsungin-ad-w7.amagi.tv/playlist/amg01448-samsungin-aajtak-samsungin/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=106&key
