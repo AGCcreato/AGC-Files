@@ -156,7 +156,7 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=119&key
 #EXTINF: -1 tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
 #EXTGRP:Kids & Family [Cartoons]
-http://sansat.net:25461/live/02022663111092/3499495741/96341.ts
+https://allinonereborn.com/jiobe1125.m3u8?id=1118
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=45&key
@@ -166,7 +166,13 @@ https://allinonereborn.com/jiobe1125.m3u8?id=1120
 
 #EXTINF: -1 tvg-name="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png", Hungama
 #EXTGRP:Kids & Family [Cartoons]
-https://allinonereborn.com/jiobe1125.m3u8?id=1120
+https://allinonereborn.com/jiobe1125.m3u8?id=1094
+
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/114
+#EXTINF: -1 tvg-name="DISNEY" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png", DISNEY
+#EXTGRP:Kids & Family [Cartoons]
+https://allinonereborn.com/jiobe1125.m3u8?id=1091
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=681&key
@@ -189,12 +195,6 @@ http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/96278
 #EXTINF: -1 tvg-name="DISNEY Junior" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png", DISNEY Junior
 #EXTGRP:Kids & Family [Cartoons]
 http://sonyiptv.net:8080/10001/10001/246769
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/clearkey/114
-#EXTINF: -1 tvg-name="DISNEY" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png", DISNEY
-#EXTGRP:Kids & Family [Cartoons]
-http://sansat.net:25461/live/02022663111092/3499495741/96278.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=433&key
